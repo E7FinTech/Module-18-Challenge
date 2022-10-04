@@ -94,7 +94,7 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 ### Summary 
 
-The Pychain successfully returned the sender, receiver, and amount.  The blockchain ledger info can be viewed in the caption below.
+The Pychain successfully returned the sender, receiver, and amount.  The blockchain ledger info can be viewed in the caption below. The block difficulty increases as the slider approaches 5.  The difficulty increases as more zeros are added at the beginning thus increasing the 'working' time to create the tag. 
 
 
 ![alt=""](Images/Pychain.jpg)
