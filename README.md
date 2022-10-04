@@ -96,15 +96,6 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 ![alt=""](Images/Pychain.jpg)
 
 
----
-
-
-### Summary 
-
-The Steamlit application allowed for the receiver, sender, and amount inputs while returning PyChain clockchain information.
-
-![alt=""](Images/Pychain.jpg)
-
 
 
 
