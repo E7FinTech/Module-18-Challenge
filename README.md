@@ -93,6 +93,10 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 
 ### Summary 
+
+The Pychain successfully returned the sender, receiver, and amount.  The blockchain ledger info can be viewed in the caption below.
+
+
 ![alt=""](Images/Pychain.jpg)
 
 
