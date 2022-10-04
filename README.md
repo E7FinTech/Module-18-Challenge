@@ -99,7 +99,6 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 
 
-\
 ## Submission
 
 You’ll upload the Python file for this assignment to your GitHub repository.
